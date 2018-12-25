@@ -1,0 +1,4 @@
+github.com/golang/mock v1.2.0 h1:28o5sBqPkBsMGnC6b4MvE2TzSr5/AT4c/1fLqVGIwlk=
+github.com/golang/mock v1.2.0/go.mod h1:oTYuIxOrZwtPieC+H1uAHpcLFnEyAGVDL/k47Jfbm0A=
+google.golang.org/api v0.0.0-20181214000652-874d9dc5b186 h1:ZDe3pYgXQh0A6sgLlIejBym8PY8oYcX8dY7pwKS8+Yk=
+google.golang.org/api v0.0.0-20181214000652-874d9dc5b186/go.mod h1:4mhQ8q/RsB7i+udVvVy5NUi08OU8ZlA0gRVgrF7VFY0=
