@@ -1,0 +1,4 @@
+# github.com/gopherjs/gopherjs v0.0.0-20190915194858-d3ddacdb130f
+github.com/gopherjs/gopherjs/js
+# honnef.co/go/js/dom v0.0.0-20190526011328-ebc4cf92d81f
+honnef.co/go/js/dom
